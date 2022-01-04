@@ -19,10 +19,12 @@ const Menu = props => (
                     <Link to="/param/legal">Param #2</Link>
                     
                 </li>
-                
 
                 <li>
                      <Link to="/about">Sobre</Link>
+                </li>
+                <li>
+                     <Link to="/naoExiste">Não existe</Link>
                 </li>
             </ul>
         </nav>
